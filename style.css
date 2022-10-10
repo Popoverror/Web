@@ -1,0 +1,58 @@
+.text {
+   font-family: 'Montserrat';
+   sans-serif;
+}
+
+* {
+   box-sizing: border-box;
+}
+
+.container {
+   max-width: 1680px;
+   margin: auto;
+}
+
+.header {
+   font-family: 'Montserrat';
+   font-style: normal;
+   font-weight: 500;
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+}
+
+.buttonlogo {}
+
+.buttonlogo:visited {}
+
+.navbar-nav {}
+
+.nav-item {
+   margin-right: 40px;
+   display: inline;
+}
+
+.active {}
+
+.nav-link {
+   text-decoration: dashed;
+   color: #18A0FB;
+}
+
+.buttons {}
+
+.button {
+   font-family: 'Montserrat';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 15px;
+   line-height: 18px;
+   padding: 11px 34px;
+   align-items: center;
+   text-align: center;
+   background: #18A0FB;
+   border: 1px solid #18A0FB;
+   border-radius: 6px;
+}
+
+.reg {}
